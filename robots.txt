@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://faroukcb8.github.io/fcb-for-metal/sitemap.xml
